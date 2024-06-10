@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../viewmodels/vm_main.dart';
+import 'package:allincnx/Common/viewmodels/vm_main.dart';
 
 class MyPageView extends StatelessWidget {
   @override
